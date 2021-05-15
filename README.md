@@ -11,6 +11,7 @@ Made with:
 
 - momentjs
 - mathjs
+- hangman-game
 
 To uninstall:
 `npm uninstall momentjs`
@@ -18,4 +19,9 @@ To uninstall:
 
 ## Start
 
-    npm start
+`npm start`
+
+## Scripts
+
+`npm run my_script`
+`npm run play_hangman`
